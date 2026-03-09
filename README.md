@@ -1,5 +1,5 @@
 # 🔍 Lost & Found Reunion
-### Multi-Modal Semantic Search Engine — BLDEACET Progress Project 1
+### Multi-Modal Semantic Search Engine — Progress Project 1
 
 ---
 
