@@ -79,8 +79,8 @@ ollama pull llama3.2
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/lost_found_reunion.git
-cd lost_found_reunion
+git clone https://github.com/yourusername/internship-project1.git
+cd internship-project1
 ```
 
 ### 2. Create and activate virtual environment
